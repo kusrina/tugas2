@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 #define PI 3.1415
-
+//komentar
 using namespace std;
 
 int faktorial(int);
